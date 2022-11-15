@@ -1,26 +1,26 @@
-*{
-    font-family: "roboto", sans-serif;
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+* {
+  font-family: "roboto", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 .dsmeta-red-btn-container {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 .dsmeta-red-btn {
-    height: 43px;
-    width: 43px;
-    background: rgba(255, 107, 114, 0.1);
-    border: 1px solid #FF6B72;
-    border-radius: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
+  height: 43px;
+  width: 43px;
+  background: rgba(255, 107, 114, 0.1);
+  border: 1px solid #ff6b72;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
 }
 
-.dsmeta-red-btn img{
-    width: 19px;
+.dsmeta-red-btn img {
+  width: 19px;
 }
